@@ -28,5 +28,5 @@ I’m a Full-Stack Developer with a focus on Front-End, trained through Coding A
 ![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat&logo=redux&logoColor=white)
 ![RxJS](https://img.shields.io/badge/RxJS-00796D?style=flat&logo=rxjs&logoColor=white)
 
-![Zohar Ifrah's GitHub stats](https://github-readme-stats.vercel.app/api?username=Zohar-Ifrah&show_icons=true&theme=radical)
+![Zohar Ifrah's GitHub streak](https://streak-stats.demolab.com/?user=Zohar-Ifrah&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zohar-Ifrah&layout=compact&theme=radical)
