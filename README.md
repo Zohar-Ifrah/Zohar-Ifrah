@@ -1,6 +1,7 @@
 # Hi there 👋 I’m Zohar Ifrah
 
-I’m a Full-Stack Developer with a focus on Front-End, trained through Coding Academy’s intensive 640-hour bootcamp and foundational coursework at Ruppin.
+I'm Zohar Ifrah, a Computer Science student with hands-on experience in NodeJS and ReactJS.
+Passionate about building software applications and eager to contribute to the SaaS industry. Check out my projects below!
 
 **Skills:**
 
